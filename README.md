@@ -1,5 +1,4 @@
 # thousands
-record my code for game thousands
 
 这是一款简单的RPG游戏,希望在不断提升自身能力的对游戏进行演化
 1：简单的数值对战类型的小游戏
