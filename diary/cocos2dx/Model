@@ -4,3 +4,5 @@ Moel.h定义了所有的RPG战斗相关的Model
 1)Role类,角色类的父类，包括玩家，怪物等
 
 采用Vector<Buff>用来保存Role当前身上的Buff 或者 Debuff
+
+cocos2dx 封装了stl的vector http://cn.cocos2d-x.org/article/index?type=cocos2d-x&url=/doc/cocos-docs-master/manual/framework/native/v3/data-structure/vector/zh.md
